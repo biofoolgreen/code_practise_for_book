@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+tensorflow-practise_with_deeplearning_framework/data/
+tensorflow-practise_with_deeplearning_framework/models/
+
+.vscode/
+python_object_oriented_programing/.vscode/
+python_object_oriented_programing/__pycache__/
